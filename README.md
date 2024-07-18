@@ -12,11 +12,11 @@ In this project, we will analyze the raw data of a PPC campaign for a video crea
 Funnel Optimization Analysis
 </br>
 
-**Objective:** 
-# Identify the top converting funnel.
+# **Objectives:** 
+Identify the top converting funnel.
 </br>
-## Activities:
-## Data Joining and Analysis:
+# Activities:
+# Data Joining and Analysis:
 We can use SQL to merge datasets and calculate Click-Through Rate (CTR), Conversion Rate, and Bounce Rate (defined as people who clicked but did not show interest).
 
 # Persona Development:
